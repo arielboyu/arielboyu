@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ariel <img src=https://media1.giphy.com/media/7YDd9Vswmk7MZrYVyi/giphy.webp?cid=ecf05e47mg7oiybxlkoh3spfhvomj7rwhd9qo7j1fd0aq8vg&rid=giphy.webp width="50">  </h1>
-<h3  align="center">A passionate software developer from Argentina <img src=https://media2.giphy.com/media/cnQkpQGOJzIoyLuHag/200w.webp?cid=ecf05e477cwulm6v7cmk9prkl27aq7i6jq8mz77ffbdh333s&rid=200w.webp width="30"> </h3>
+<h3  align="center">A passionate software developer from Argentina <img src=https://media2.giphy.com/media/cnQkpQGOJzIoyLuHag/200w.webp?cid=ecf05e477cwulm6v7cmk9prkl27aq7i6jq8mz77ffbdh333s&rid=200w.webp width="50"> </h3>
 <h3  align="center">
-my favorite code editor is Atom   :atom:,  and the operating system is Ubuntu <img src=https://i.pinimg.com/originals/21/bb/6e/21bb6e97a54399f9cbfd483188d1685b.gif width="50"> </h3>
+My favorite code editor is Atom   :atom:,  and the operating system is Ubuntu <img src=https://i.pinimg.com/originals/21/bb/6e/21bb6e97a54399f9cbfd483188d1685b.gif width="50"> </h3>
 <img src=https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/p526x296/138582055_230792508572205_7503707321449762989_o.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=Z6v2TPZ0ulgAX_At9PV&_nc_ht=scontent.faep14-2.fna&tp=6&oh=0712f7af4a2e5048b6759829bdc1d2ad&oe=602253BB width="200" > 
 <img src=https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138351992_230650788586377_2470869329612740201_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=x9kihi2kJskAX92Qmpq&_nc_ht=scontent.faep14-2.fna&oh=79a74f69651ea7a9fd7a788df479c5ae&oe=60226012  width="600" >
 
