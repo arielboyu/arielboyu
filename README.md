@@ -29,4 +29,4 @@ const Ariel = {
 [![Linkedin: arielSalcedo](https://img.shields.io/badge/-ArielSalcedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArielSalcedo/)](https://www.linkedin.com/in/ariel-salcedo-b423b61ba/)
 [![GitHub ArielBoyu](https://img.shields.io/github/followers/arielBoyu?label=arielBoyu&style=social)](https://github.com/arielboyu)
 .  
-[![](https://img.shields.io/badge/Gmail-cayun.diego.09%40gmail.com-red)](mailto:edgararielsalcedo@gmail.com)
+[![](https://img.shields.io/badge/Gmail-edgararielsalcedo@gmail.com-red)](mailto:edgararielsalcedo@gmail.com)
