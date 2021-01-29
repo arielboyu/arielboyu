@@ -4,9 +4,10 @@
 My favorite code editor is Atom   :atom:,  and the operating system is Ubuntu <img src=https://i.pinimg.com/originals/21/bb/6e/21bb6e97a54399f9cbfd483188d1685b.gif width="50"> </h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arielboyu&show_icons=true&locale=en" alt="arielboyu" />
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arielboyu&show_icons=true&locale=en" alt="arielboyu" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arielboyu&" alt="arielboyu" />
 </p>
+
 
 - 👨‍💻 All of my projects are available at [https://arielsalcedo.arielboyu.vercel.app/](https://arielsalcedo.herokuapp.com/)
 
@@ -19,7 +20,7 @@ Puedes ver la pagina en el siguiente link: [Portafolio](https://arielsalcedo.her
 
 
 
-  <p align='center'>
+  <p >
      <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s851x315/143643216_241034104214712_5762970673089158836_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=59rdL6POsSIAX9P6BfQ&_nc_ht=scontent.faep14-2.fna&tp=7&oh=0f132862fc6e7029bb095bcf0a5d7dac&oe=603A3D09'width="400" height="200" </img>
       <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/s600x600/143798554_241034074214715_8819548947478060592_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=3h7mrjtV2S0AX8qOHfi&_nc_ht=scontent.faep14-2.fna&tp=7&oh=344b9a07b85ddbad85dd968a29b46412&oe=6039B97E'width="400" height="200" </img>
         <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/s600x600/143770039_241020940882695_9193446673362673126_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=6ZQGvJjfTK0AX88J6tW&_nc_ht=scontent.faep14-2.fna&tp=7&oh=14677d373a68e9c4f7ba4c0fb856242b&oe=6039A91A'width="100" height="200" </img>
