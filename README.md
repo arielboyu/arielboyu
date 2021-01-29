@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ariel <img src=https://media1.giphy.com/media/7YDd9Vswmk7MZrYVyi/giphy.webp?cid=ecf05e47mg7oiybxlkoh3spfhvomj7rwhd9qo7j1fd0aq8vg&rid=giphy.webp width="50">  </h1>
+<h1 align="center">Hi , I'm Ariel <img src=https://media1.giphy.com/media/7YDd9Vswmk7MZrYVyi/giphy.webp?cid=ecf05e47mg7oiybxlkoh3spfhvomj7rwhd9qo7j1fd0aq8vg&rid=giphy.webp width="50">  </h1>
 <h3  align="center">A passionate software developer from Argentina <img src=https://media2.giphy.com/media/cnQkpQGOJzIoyLuHag/200w.webp?cid=ecf05e477cwulm6v7cmk9prkl27aq7i6jq8mz77ffbdh333s&rid=200w.webp width="50"> </h3>
 <h3  align="center">
 My favorite code editor is Atom   :atom:,  and the operating system is Ubuntu <img src=https://i.pinimg.com/originals/21/bb/6e/21bb6e97a54399f9cbfd483188d1685b.gif width="50"> </h3>
 
 
-- 👨‍💻 All of my projects are available at [https://arielsalcedo.herokuapp.com/](https://arielsalcedo.herokuapp.com/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arielboyu&show_icons=true&locale=en" alt="arielboyu" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arielboyu&" alt="arielboyu" />
+</p>
+
+- 👨‍💻 All of my projects are available at [https://arielsalcedo.arielboyu.vercel.app/](https://arielsalcedo.herokuapp.com/)
+
 
 ### `Proyectos`
 
@@ -12,15 +17,13 @@ My favorite code editor is Atom   :atom:,  and the operating system is Ubuntu <i
 
 Puedes ver la pagina en el siguiente link: [Portafolio](https://arielsalcedo.herokuapp.com/)
 
- <p align='center'>
-     <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/137284945_231549718496484_3745847828915918626_o.jpg?_nc_cat=108&ccb=2&_nc_sid=730e14&_nc_ohc=i3Ufom1XBKwAX-cMca3&_nc_ht=scontent.faep14-2.fna&oh=62d652741cbf74900684ac4e06ef4df9&oe=602469B9'width="400" height="200" </img>
- </p>
-
 
 
   <p align='center'>
-      <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138273865_231550028496453_5057934952392238608_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=_w1YE-RaRSQAX8kdqdB&_nc_ht=scontent.faep14-2.fna&oh=5e71eda391d911dde8dbb8ddf3a182d7&oe=60238780'width="100" height="200" </img>
-        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138273865_231550028496453_5057934952392238608_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=_w1YE-RaRSQAX8kdqdB&_nc_ht=scontent.faep14-2.fna&oh=5e71eda391d911dde8dbb8ddf3a182d7&oe=60238780'width="100" height="200" </img>
+     <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s851x315/143643216_241034104214712_5762970673089158836_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=59rdL6POsSIAX9P6BfQ&_nc_ht=scontent.faep14-2.fna&tp=7&oh=0f132862fc6e7029bb095bcf0a5d7dac&oe=603A3D09'width="400" height="200" </img>
+      <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/s600x600/143798554_241034074214715_8819548947478060592_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=3h7mrjtV2S0AX8qOHfi&_nc_ht=scontent.faep14-2.fna&tp=7&oh=344b9a07b85ddbad85dd968a29b46412&oe=6039B97E'width="400" height="200" </img>
+        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/s600x600/143770039_241020940882695_9193446673362673126_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=6ZQGvJjfTK0AX88J6tW&_nc_ht=scontent.faep14-2.fna&tp=7&oh=14677d373a68e9c4f7ba4c0fb856242b&oe=6039A91A'width="100" height="200" </img>
+
   </p>
 
 
@@ -32,22 +35,13 @@ Puedes ver la página en el siguiente link  : [AstridToys](https://astridtoys.he
 <p align='center'>
     <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/139308449_232164315101691_6948644297216951867_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=jMswMrMZq9QAX_9bH5M&_nc_ht=scontent.faep24-1.fna&oh=c459118356ce81c02257e7f77a907490&oe=602537E0'width="400" height="200" </img>
         <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/s960x960/138928438_232164015101721_7606698245150653858_o.jpg?_nc_cat=102&ccb=2&_nc_sid=730e14&_nc_ohc=gjfjD8flwkAAX81ih-i&_nc_ht=scontent.faep24-1.fna&tp=7&oh=aa49575f5096d22259b8da3493bd2061&oe=6024784A'width="400" height="200" </img>
+            <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/138891539_232164281768361_4410102705406138241_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=ZeV6q9aGTvwAX9E7wgO&_nc_ht=scontent.faep24-1.fna&oh=0ee13aa81fe3f29f4ab8bb88d6cdd52d&oe=6027784E'width="500" height="200" </img>
 
-</p>
-### `Los funkos del equipo en sección about -->`
-<p align='center'>
-    <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/s960x960/138928438_232164015101721_7606698245150653858_o.jpg?_nc_cat=102&ccb=2&_nc_sid=730e14&_nc_ohc=gjfjD8flwkAAX81ih-i&_nc_ht=scontent.faep24-1.fna&tp=7&oh=aa49575f5096d22259b8da3493bd2061&oe=6024784A'width="400" height="200" </img>
-</p>
-
-
-### `-->`
-<p align='center'>
-    <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/138891539_232164281768361_4410102705406138241_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=ZeV6q9aGTvwAX9E7wgO&_nc_ht=scontent.faep24-1.fna&oh=0ee13aa81fe3f29f4ab8bb88d6cdd52d&oe=6027784E'width="400" height="200" </img>
 </p>
 
 
 <p align='center'>
-    <img style= width:100px src='https://media0.giphy.com/media/Kxz0KxYONqIhIGXK0F/giphy.webp?cid=ecf05e47uo1z30l1ej5zbogfo314vfc72sbcfp4rkx6raidr&rid=giphy.webp' </img>
+    <img style= width:50px src='https://media0.giphy.com/media/Kxz0KxYONqIhIGXK0F/giphy.webp?cid=ecf05e47uo1z30l1ej5zbogfo314vfc72sbcfp4rkx6raidr&rid=giphy.webp' </img>
 </p>
 
 
@@ -65,6 +59,7 @@ Puedes ver el proyecto en el siguiente link : [TiendaVirtual](https://tiendavirt
 ### `-->`
 <p align='center'>
     <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/p180x540/138796875_231685888482867_9125119503483297354_o.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=0BDGxt4tilcAX-Zt2bY&_nc_ht=scontent.faep14-2.fna&tp=6&oh=7d99cf8c17d78086a560ad2ceb9c0884&oe=6025DA57'width="400" height="200" </img>
+        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/139504442_232105148440941_4345287256914133085_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=r_tk-7yqDN8AX8_K1Nw&_nc_ht=scontent.faep14-2.fna&oh=2ace709aa2a04c062ecb7e3dc0a382c4&oe=603922DC'width="100" height="200" </img>
 </p>
 
 
@@ -72,12 +67,6 @@ Puedes ver el proyecto en el siguiente link : [TiendaVirtual](https://tiendavirt
 <p align='center'>
     <img src='https://media3.giphy.com/media/ZZGwSLGlt7prkbV2Fi/200w.webp?cid=ecf05e479dwim8xxkb2p3ozqlex66yz8vtti34hmyjerf2g8&rid=200w.webp' </img>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arielboyu&show_icons=true&locale=en&layout=compact" alt="arielboyu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arielboyu&show_icons=true&locale=en" alt="arielboyu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arielboyu&" alt="arielboyu" /></p>
 
 
 
