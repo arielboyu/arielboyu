@@ -21,9 +21,9 @@ Puedes ver la pagina en el siguiente link: [Portafolio](https://arielsalcedo.her
 
 
   <p >
-     <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s851x315/143643216_241034104214712_5762970673089158836_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=59rdL6POsSIAX9P6BfQ&_nc_ht=scontent.faep14-2.fna&tp=7&oh=0f132862fc6e7029bb095bcf0a5d7dac&oe=603A3D09'width="400" height="200" </img>
-      <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/s600x600/143798554_241034074214715_8819548947478060592_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=3h7mrjtV2S0AX8qOHfi&_nc_ht=scontent.faep14-2.fna&tp=7&oh=344b9a07b85ddbad85dd968a29b46412&oe=6039B97E'width="400" height="200" </img>
-        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/s600x600/143770039_241020940882695_9193446673362673126_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=6ZQGvJjfTK0AX88J6tW&_nc_ht=scontent.faep14-2.fna&tp=7&oh=14677d373a68e9c4f7ba4c0fb856242b&oe=6039A91A'width="100" height="200" </img>
+     <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s851x315/143643216_241034104214712_5762970673089158836_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=59rdL6POsSIAX9P6BfQ&_nc_ht=scontent.faep14-2.fna&tp=7&oh=0f132862fc6e7029bb095bcf0a5d7dac&oe=603A3D09'width="400" height="250" </img>
+      <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/s600x600/143798554_241034074214715_8819548947478060592_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=3h7mrjtV2S0AX8qOHfi&_nc_ht=scontent.faep14-2.fna&tp=7&oh=344b9a07b85ddbad85dd968a29b46412&oe=6039B97E'width="400" height="250" </img>
+        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/s600x600/143770039_241020940882695_9193446673362673126_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=6ZQGvJjfTK0AX88J6tW&_nc_ht=scontent.faep14-2.fna&tp=7&oh=14677d373a68e9c4f7ba4c0fb856242b&oe=6039A91A'width="100" height="250" </img>
 
   </p>
 
@@ -56,11 +56,9 @@ Vamos a usar la API pública de **Mercado Libre**.
 Puedes ver el proyecto en el siguiente link : [TiendaVirtual](https://tiendavirtualapp.herokuapp.com/)
 
 
-
-### `-->`
 <p align='center'>
-    <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/p180x540/138796875_231685888482867_9125119503483297354_o.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=0BDGxt4tilcAX-Zt2bY&_nc_ht=scontent.faep14-2.fna&tp=6&oh=7d99cf8c17d78086a560ad2ceb9c0884&oe=6025DA57'width="400" height="200" </img>
-        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/139504442_232105148440941_4345287256914133085_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=r_tk-7yqDN8AX8_K1Nw&_nc_ht=scontent.faep14-2.fna&oh=2ace709aa2a04c062ecb7e3dc0a382c4&oe=603922DC'width="100" height="200" </img>
+    <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/p180x540/138796875_231685888482867_9125119503483297354_o.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=0BDGxt4tilcAX-Zt2bY&_nc_ht=scontent.faep14-2.fna&tp=6&oh=7d99cf8c17d78086a560ad2ceb9c0884&oe=6025DA57'width="450" height="250" </img>
+        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/139504442_232105148440941_4345287256914133085_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=r_tk-7yqDN8AX8_K1Nw&_nc_ht=scontent.faep14-2.fna&oh=2ace709aa2a04c062ecb7e3dc0a382c4&oe=603922DC'width="150" height="250" </img>
 </p>
 
 
