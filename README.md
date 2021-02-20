@@ -54,6 +54,7 @@ Puedes ver la página en el siguiente link  : [AstridToys](https://astridtoys.he
 
 El objetivo del challenge es construir un Front-End y un Back-End que interactuen con una API externa.
 
+
 Vamos a usar la API pública de **Mercado Libre**.
 
 Puedes ver el proyecto en el siguiente link : [TiendaVirtual](https://tiendavirtualapp.herokuapp.com/)
