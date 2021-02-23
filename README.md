@@ -38,9 +38,7 @@ Puedes ver la página en el siguiente link  : [AstridToys](https://astridtoys.he
 
 <p align='center'>
     <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/139308449_232164315101691_6948644297216951867_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=jMswMrMZq9QAX_9bH5M&_nc_ht=scontent.faep24-1.fna&oh=c459118356ce81c02257e7f77a907490&oe=602537E0'width="400" height="200" </img>
-        <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/s960x960/138928438_232164015101721_7606698245150653858_o.jpg?_nc_cat=102&ccb=2&_nc_sid=730e14&_nc_ohc=gjfjD8flwkAAX81ih-i&_nc_ht=scontent.faep24-1.fna&tp=7&oh=aa49575f5096d22259b8da3493bd2061&oe=6024784A'width="400" height="200" </img>
-            <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/138891539_232164281768361_4410102705406138241_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=ZeV6q9aGTvwAX9E7wgO&_nc_ht=scontent.faep24-1.fna&oh=0ee13aa81fe3f29f4ab8bb88d6cdd52d&oe=6027784E'width="500" height="200" </img>
-
+        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138891539_232164281768361_4410102705406138241_o.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=XPm8MIYDjyAAX_7LDW9&_nc_ht=scontent.faep14-2.fna&oh=960402c179c71ab4a3df0dd385d1b3f7&oe=605AE2CE'width="400" height="200" </img>
 </p>
 
 
@@ -61,7 +59,7 @@ Puedes ver el proyecto en el siguiente link : [TiendaVirtual](https://tiendavirt
 
 
 <p align='center'>
-    <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/p180x540/138796875_231685888482867_9125119503483297354_o.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=0BDGxt4tilcAX-Zt2bY&_nc_ht=scontent.faep14-2.fna&tp=6&oh=7d99cf8c17d78086a560ad2ceb9c0884&oe=6025DA57'width="450" height="250" </img>
+    <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138827812_231399731844816_7714682716009636190_o.jpg?_nc_cat=105&ccb=3&_nc_sid=730e14&_nc_ohc=6RpS26bLd2QAX-ruS-f&_nc_ht=scontent.faep14-2.fna&oh=daf06da1723f05edd1ac1418dd7426f4&oe=605B36A9'width="450" height="250" </img>
         <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/139504442_232105148440941_4345287256914133085_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=r_tk-7yqDN8AX8_K1Nw&_nc_ht=scontent.faep14-2.fna&oh=2ace709aa2a04c062ecb7e3dc0a382c4&oe=603922DC'width="150" height="250" </img>
 </p>
 
