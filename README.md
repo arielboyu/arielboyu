@@ -58,7 +58,7 @@ proyecto creado en equipo para henry labs , Venta de funkos online
 Puedes ver la página en el siguiente link  : [AstridToys](https://astridtoys.herokuapp.com/products)
 
 <p align='center'>
-    <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/139308449_232164315101691_6948644297216951867_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=jMswMrMZq9QAX_9bH5M&_nc_ht=scontent.faep24-1.fna&oh=c459118356ce81c02257e7f77a907490&oe=602537E0'width="400" height="200" </img>
+    <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/139308449_232164315101691_6948644297216951867_o.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=WK7_cTNkXtwAX_C6gh9&_nc_ht=scontent.faep14-2.fna&oh=91bd2a6bda51d68e32518a0378fef7ae&oe=60608B60'width="400" height="200" </img>
         <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138891539_232164281768361_4410102705406138241_o.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=XPm8MIYDjyAAX_7LDW9&_nc_ht=scontent.faep14-2.fna&oh=960402c179c71ab4a3df0dd385d1b3f7&oe=605AE2CE'width="400" height="200" </img>
 </p>
 
