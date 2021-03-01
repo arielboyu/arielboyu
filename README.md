@@ -45,8 +45,8 @@ Puedes ver la pagina en el siguiente link: [Portafolio](https://arielsalcedo.her
 
 
   <p >
-     <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s851x315/143643216_241034104214712_5762970673089158836_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=59rdL6POsSIAX9P6BfQ&_nc_ht=scontent.faep14-2.fna&tp=7&oh=0f132862fc6e7029bb095bcf0a5d7dac&oe=603A3D09'width="400" height="200" </img>
-      <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/s600x600/143798554_241034074214715_8819548947478060592_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=3h7mrjtV2S0AX8qOHfi&_nc_ht=scontent.faep14-2.fna&tp=7&oh=344b9a07b85ddbad85dd968a29b46412&oe=6039B97E'width="400" height="200" </img>
+     <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/143643216_241034104214712_5762970673089158836_o.jpg?_nc_cat=105&ccb=3&_nc_sid=730e14&_nc_ohc=syF4HJbX4fAAX8_LLHD&_nc_ht=scontent.faep24-1.fna&oh=6c96ddace05f1544042b6bb9c1d520eb&oe=606180A9'width="400" height="200" </img>
+      <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/143798554_241034074214715_8819548947478060592_o.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=43WlK0iVk10AX_zAxZC&_nc_ht=scontent.faep24-1.fna&oh=7da0a3ef4d6870d8526573489b8123b1&oe=6061A6A0'width="400" height="200" </img>
 
 
   </p>
@@ -81,7 +81,7 @@ Puedes ver el proyecto en el siguiente link : [TiendaVirtual](https://tiendavirt
 
 <p align='center'>
     <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138827812_231399731844816_7714682716009636190_o.jpg?_nc_cat=105&ccb=3&_nc_sid=730e14&_nc_ohc=6RpS26bLd2QAX-ruS-f&_nc_ht=scontent.faep14-2.fna&oh=daf06da1723f05edd1ac1418dd7426f4&oe=605B36A9'width="450" height="250" </img>
-        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/139504442_232105148440941_4345287256914133085_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=r_tk-7yqDN8AX8_K1Nw&_nc_ht=scontent.faep14-2.fna&oh=2ace709aa2a04c062ecb7e3dc0a382c4&oe=603922DC'width="150" height="250" </img>
+        <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/139504442_232105148440941_4345287256914133085_n.jpg?_nc_cat=109&ccb=3&_nc_sid=730e14&_nc_ohc=1tns4i8fa_cAX__Nso2&_nc_ht=scontent.faep24-1.fna&oh=667a4f301baec9563150cc96a7cd07d6&oe=6060AFDC'width="150" height="250" </img>
 </p>
 
 
