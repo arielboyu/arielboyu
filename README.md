@@ -4,9 +4,7 @@
 My favorite code editor is Atom   :atom:,  and the operating system is Ubuntu <img src=https://i.pinimg.com/originals/21/bb/6e/21bb6e97a54399f9cbfd483188d1685b.gif width="50"> </h3>
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arielboyu&DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielboyu&theme=black-ice&border=231f1f)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielboyu&theme=blue-green)
 
 
