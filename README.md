@@ -25,7 +25,7 @@ Puedes descargar el APK en el siguiente link  : [TreeBaank](https://drive.google
   <p >
             <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/153222379_255944879390301_3173694239169008840_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=4hKfJR3fW1MAX8b2WLv&_nc_ht=scontent.faep24-1.fna&oh=9888ea6c3763398e43eb0ea80c90a6e3&oe=608E449C'width="500" height="200" </img>
   </p>
-      <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/153222379_255944879390301_3173694239169008840_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=4hKfJR3fW1MAX8b2WLv&_nc_ht=scontent.faep24-1.fna&oh=9888ea6c3763398e43eb0ea80c90a6e3&oe=608E449C'width="500" height="200" </img>
+      <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/153867221_255945016056954_2869797233218830518_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=XWcpcEToYcoAX9louDy&_nc_ht=scontent.faep24-1.fna&oh=939c3cafc28eb98ee4d3fdfa506edd78&oe=608F9830'width="500" height="200" </img>
 </p>
 
 Puedes ver mas info en el siguiente Link: [Descripción](https://docs.google.com/presentation/d/1R5qJQgjqdAa9ach0rT4UwEqhyTLiU9KfVgwREJyXYRc/edit#slide=id.p23)
@@ -43,8 +43,8 @@ Puedes ver la pagina en el siguiente link: [Portafolio](https://arielsalcedo.her
 
 
   <p >
-     <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/143643216_241034104214712_5762970673089158836_o.jpg?_nc_cat=105&ccb=3&_nc_sid=730e14&_nc_ohc=syF4HJbX4fAAX8_LLHD&_nc_ht=scontent.faep24-1.fna&oh=6c96ddace05f1544042b6bb9c1d520eb&oe=606180A9'width="400" height="200" </img>
-      <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/143798554_241034074214715_8819548947478060592_o.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=43WlK0iVk10AX_zAxZC&_nc_ht=scontent.faep24-1.fna&oh=7da0a3ef4d6870d8526573489b8123b1&oe=6061A6A0'width="400" height="200" </img>
+     <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/143643216_241034104214712_5762970673089158836_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=p2kFZWUVNiwAX_4ozXD&_nc_ht=scontent.faep24-1.fna&oh=edf0d78fbb46811802f5606c4b3a1247&oe=608EB0CB'width="400" height="200" </img>
+      <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/143798554_241034074214715_8819548947478060592_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_ohc=R7khoITYxLUAX9Y-7FP&_nc_ht=scontent.faep24-1.fna&oh=a6058ad3275e75dbc649fd4ebd88af3a&oe=608E6B7E'width="400" height="200" </img>
 
 
   </p>
@@ -56,8 +56,8 @@ proyecto creado en equipo para henry labs , Venta de funkos online
 Puedes ver la página en el siguiente link  : [AstridToys](https://astridtoys.herokuapp.com/products)
 
 <p align='center'>
-    <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/139308449_232164315101691_6948644297216951867_o.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=WK7_cTNkXtwAX_C6gh9&_nc_ht=scontent.faep14-2.fna&oh=91bd2a6bda51d68e32518a0378fef7ae&oe=60608B60'width="400" height="200" </img>
-        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/c86.0.206.206a/p206x206/139308449_232164315101691_6948644297216951867_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=da31f3&_nc_ohc=YVRzRTHDcLoAX-p01yf&_nc_ht=scontent.faep14-2.fna&tp=27&oh=b3f307f0c8a263aa69ce2f4269b08567&oe=608423C8'width="400" height="200" </img>
+    <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/138928438_232164015101721_7606698245150653858_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=N4SwcAzXawgAX-fuU18&_nc_ht=scontent.faep24-1.fna&oh=a5d7ca558aab97647c30204b0a25b23d&oe=608F7CCD'width="400" height="200" </img>
+        <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/139308449_232164315101691_6948644297216951867_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_ohc=bpmTpGohKnMAX9Axk1O&_nc_ht=scontent.faep24-1.fna&oh=5404b861a97a0f81e4e7fc9de0937567&oe=608EB8BE'width="400" height="200" </img>
 </p>
 
 
@@ -79,7 +79,7 @@ Puedes ver el proyecto en el siguiente link : [TiendaVirtual](https://tiendavirt
 
 <p align='center'>
     <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138827812_231399731844816_7714682716009636190_o.jpg?_nc_cat=105&ccb=3&_nc_sid=730e14&_nc_ohc=6RpS26bLd2QAX-ruS-f&_nc_ht=scontent.faep14-2.fna&oh=daf06da1723f05edd1ac1418dd7426f4&oe=605B36A9'width="450" height="250" </img>
-        <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/139504442_232105148440941_4345287256914133085_n.jpg?_nc_cat=109&ccb=3&_nc_sid=730e14&_nc_ohc=1tns4i8fa_cAX__Nso2&_nc_ht=scontent.faep24-1.fna&oh=667a4f301baec9563150cc96a7cd07d6&oe=6060AFDC'width="150" height="250" </img>
+        <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/143770039_241020940882695_9193446673362673126_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=Y0O_WUOrsX0AX8LHJ0e&_nc_ht=scontent.faep24-1.fna&oh=9cbc7c92cd2d67a81159b80300714f9e&oe=608F0D2A'width="150" height="250" </img>
 </p>
 
 
