@@ -23,9 +23,9 @@ Proyecto creado en equipo para henry labs , Es una Billetera Virtual que simula 
 Puedes descargar el APK en el siguiente link  : [TreeBaank](https://drive.google.com/file/d/1ZBBJfk34kLWOKT6QSCeHXc1n09jh6v0S/view?usp=sharing)
 
   <p >
-            <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/153867221_255945016056954_2869797233218830518_n.jpg?_nc_cat=111&ccb=3&_nc_sid=730e14&_nc_ohc=xsuE5QhxC8IAX-2se2N&_nc_ht=scontent.faep14-2.fna&oh=6e9f10e951aa40a105ddc3a0e69f812f&oe=605A9CFE'width="500" height="200" </img>
+            <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/153222379_255944879390301_3173694239169008840_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=4hKfJR3fW1MAX8b2WLv&_nc_ht=scontent.faep24-1.fna&oh=9888ea6c3763398e43eb0ea80c90a6e3&oe=608E449C'width="500" height="200" </img>
   </p>
-      <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/c87.0.206.206a/p206x206/153488657_255944926056963_6428303226268309338_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=da31f3&_nc_ohc=B3VEVi7EE8AAX_VMq09&_nc_ht=scontent.faep14-2.fna&tp=27&oh=56aeda834e7a50a7bb6c070c6c65cc54&oe=60827DCC'width="500" height="200" </img>
+      <img  src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/153222379_255944879390301_3173694239169008840_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=4hKfJR3fW1MAX8b2WLv&_nc_ht=scontent.faep24-1.fna&oh=9888ea6c3763398e43eb0ea80c90a6e3&oe=608E449C'width="500" height="200" </img>
 </p>
 
 Puedes ver mas info en el siguiente Link: [Descripción](https://docs.google.com/presentation/d/1R5qJQgjqdAa9ach0rT4UwEqhyTLiU9KfVgwREJyXYRc/edit#slide=id.p23)
