@@ -78,8 +78,8 @@ Puedes ver el proyecto en el siguiente link : [TiendaVirtual](https://tiendavirt
 
 
 <p align='center'>
-    <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138827812_231399731844816_7714682716009636190_o.jpg?_nc_cat=105&ccb=3&_nc_sid=730e14&_nc_ohc=6RpS26bLd2QAX-ruS-f&_nc_ht=scontent.faep14-2.fna&oh=daf06da1723f05edd1ac1418dd7426f4&oe=605B36A9'width="450" height="250" </img>
-        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.6435-9/138827812_231399731844816_7714682716009636190_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=qeGbY8Ar2V4AX-I24_3&_nc_ht=scontent.faep14-2.fna&oh=a1e4bde86946f5c571bcdbc3e1801f61&oe=60931E4B'width="150" height="250" </img>
+    <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.6435-9/138827812_231399731844816_7714682716009636190_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=qeGbY8Ar2V4AX-I24_3&_nc_ht=scontent.faep14-2.fna&oh=a1e4bde86946f5c571bcdbc3e1801f61&oe=60931E4B'width="450" height="250" </img>
+        <img  src='https://scontent.faep14-2.fna.fbcdn.net/v/t1.6435-9/138741208_231702428481213_4822194916446817530_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=LVyM8RsqSCMAX-OreXc&_nc_ht=scontent.faep14-2.fna&oh=6b5db0e871a16d2413843b8ee64308bd&oe=60935AFB'width="150" height="250" </img>
 </p>
 
 
