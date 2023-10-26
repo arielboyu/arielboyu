@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ariel <img src=https://media1.giphy.com/media/7YDd9Vswmk7MZrYVyi/giphy.webp?cid=ecf05e47mg7oiybxlkoh3spfhvomj7rwhd9qo7j1fd0aq8vg&rid=giphy.webp width="50">  </h1>
 <h3  align="center">A passionate software developer from Argentina <img src=https://media2.giphy.com/media/cnQkpQGOJzIoyLuHag/200w.webp?cid=ecf05e477cwulm6v7cmk9prkl27aq7i6jq8mz77ffbdh333s&rid=200w.webp width="50"> </h3>
 <h3  align="center">
-My favorite code editor is Atom   :atom:,  and the operating system is Ubuntu <img src=https://i.pinimg.com/originals/21/bb/6e/21bb6e97a54399f9cbfd483188d1685b.gif width="50"> </h3>
+My favorite code editor is Atom   :atom:,  and the operating system is Arch Linux + Kde Plasma <img src=https://i.pinimg.com/originals/21/bb/6e/21bb6e97a54399f9cbfd483188d1685b.gif width="50"> </h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielboyu&theme=black-ice&border=231f1f)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielboyu&theme=blue-green)
